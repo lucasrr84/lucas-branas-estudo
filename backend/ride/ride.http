@@ -1,0 +1,6 @@
+@ride_HostAddress = http://localhost:5082
+
+GET {{ride_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
